@@ -84,6 +84,7 @@ body {
 .left-side-hero p {
     font-size: 18px;
     padding-top: 8px;
+    color: var(--light-gray);
 }
 
 .left-side-hero button {
