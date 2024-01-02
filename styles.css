@@ -20,6 +20,8 @@ body {
     font-family: Roboto,sans-serif;
     width: 1440px; 
     font-size: 1rem;
+    display: flex;
+    align-items: center;
 }
 
 /* may not need this div
